@@ -1,5 +1,6 @@
 # OnlineNewsPortal
 This is how it look like! 
+And it will be changed after a few works! 
 
 I am still working on it.
 ![screen shot 2018-02-18 at 2 31 29 pm](https://user-images.githubusercontent.com/19642027/36355939-fa92140c-14b8-11e8-99a9-719d076e6a5b.png)
